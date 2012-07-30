@@ -15,7 +15,7 @@ file:
   <repositories>
     <repository>
       <id>farmdawgnation-paypal-mvn-repo</id>
-      <url>https://github.com/farmdawgnation/paypal-java-mvn/releases</url>
+      <url>https://raw.github.com/farmdawgnation/paypal-java-mvn/master/releases</url>
     </repository>
   </repositories>
 ```
@@ -26,5 +26,11 @@ If you're working on a Scala project and want to include this in your SBT build 
 then adding the following to build.sbt should get you up and running. (0.11 and up)
 
 ```scala
-  resolvers += "Farmdawg's PayPal MVN Repo" at "https://github.com/farmdawgnation/paypal-java-mvn/releases"
+  resolvers += "Farmdawg's PayPal MVN Repo" at "https://raw.github.com/farmdawgnation/paypal-java-mvn/master/releases"
 ```
+
+## Artifacts Included
+The following artifacts have been provided in this repository.
+
+* adaptive-payments-base at version 1.3.3
+* adaptive-payments-stubs at version 1.3.3
