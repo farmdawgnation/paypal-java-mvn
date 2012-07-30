@@ -19,3 +19,12 @@ file:
     </repository>
   </repositories>
 ```
+
+## Usage in SBT
+
+If you're working on a Scala project and want to include this in your SBT build file,
+then adding the following to build.sbt should get you up and running. (0.11 and up)
+
+```scala
+  resolvers += "Farmdawg's PayPal MVN Repo" at "https://github.com/farmdawgnation/paypal-java-mvn/releases"
+```
