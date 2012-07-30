@@ -15,7 +15,7 @@ file:
   <repositories>
     <repository>
       <id>farmdawgnation-paypal-mvn-repo</id>
-      <url>https://github.com/farmdawgnation/paypal-java-api-maven-repo/releases</url>
+      <url>https://github.com/farmdawgnation/paypal-java-mvn/releases</url>
     </repository>
   </repositories>
 ```
