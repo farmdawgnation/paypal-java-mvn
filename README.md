@@ -34,3 +34,5 @@ The following artifacts have been provided in this repository.
 
 * adaptive-payments-base at version 1.3.3
 * adaptive-payments-stubs at version 1.3.3
+* adaptive-accounts-base at version 1.3.3
+* adaptive-accounts-stubs at version 1.3.3
