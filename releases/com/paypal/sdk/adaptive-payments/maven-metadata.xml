@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.paypal.sdk</groupId>
+  <artifactId>adaptive-payments</artifactId>
+  <version>1.3.3</version>
+  <versioning>
+    <versions>
+      <version>1.3.3</version>
+    </versions>
+    <lastUpdated>20120730153143</lastUpdated>
+  </versioning>
+</metadata>
